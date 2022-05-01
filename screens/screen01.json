@@ -1,0 +1,101 @@
+{
+  "text": "Application",
+  "type": "root",
+  "children": [{
+      "_id": "j1_2",
+      "text": "Client screen",
+      "icon": "fa fa-lg fa-desktop",
+      "data": {
+        "name": "screen01",
+        "text": "Client screen",
+        "len": 0
+      },
+      "type": "screen",
+      "children": [{
+          "_id": "j1_4",
+          "text": "lblName",
+          "icon": "fa fa-lg fa-font",
+          "data": {
+            "name": "lblName",
+            "text": "Client name",
+            "len": 0
+          },
+          "type": "label",
+          "children": []
+        },
+        {
+          "_id": "j1_7",
+          "text": "fldName",
+          "icon": "fa fa-lg fa-sticky-note-o",
+          "data": {
+            "name": "fldName",
+            "text": "",
+            "len": 30
+          },
+          "type": "field",
+          "children": []
+        },
+        {
+          "_id": "j1_3",
+          "text": "lblAddress",
+          "icon": "fa fa-lg fa-font",
+          "data": {
+            "name": "lblAddress",
+            "text": "Address",
+            "len": 0
+          },
+          "type": "label",
+          "children": []
+        },
+        {
+          "_id": "j1_8",
+          "text": "fldAddress",
+          "icon": "fa fa-lg fa-sticky-note-o",
+          "data": {
+            "name": "fldAddress",
+            "text": "",
+            "len": 40
+          },
+          "type": "field",
+          "children": []
+        },
+        {
+          "_id": "j1_5",
+          "text": "lblPhone",
+          "icon": "fa fa-lg fa-font",
+          "data": {
+            "name": "lblPhone",
+            "text": "Phone number",
+            "len": 0
+          },
+          "type": "label",
+          "children": []
+        },
+        {
+          "_id": "j1_9",
+          "text": "fldPhone",
+          "icon": "fa fa-lg fa-sticky-note-o",
+          "data": {
+            "name": "fldPhone",
+            "text": "",
+            "len": 14
+          },
+          "type": "field",
+          "children": []
+        }
+      ]
+    },
+    {
+      "_id": "j1_6",
+      "text": "Product screen",
+      "icon": "fa fa-lg fa-desktop",
+      "data": {
+        "name": "screen02",
+        "text": "Product screen",
+        "len": 0
+      },
+      "type": "screen",
+      "children": []
+    }
+  ]
+}
